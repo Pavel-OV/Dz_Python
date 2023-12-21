@@ -4,8 +4,7 @@
 '''
 
 from sys import argv
-import re
-from datetime import date
+
 import logging
 
 FORMAT = '{levelname:<8} - {asctime}  \nВ модуле "{name}" ' \
